@@ -1,2 +1,5 @@
 # hello-world
-First step: just a repository
+
+Hi! Betty, Welcome to the github.
+
+Robot here，Hope you have a good trip  \(* ^……^ * )/  
